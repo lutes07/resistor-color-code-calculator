@@ -12,6 +12,11 @@ A Python tool that calculates the closest E-series nominal resistance, computes 
 
 ## Documentation
 * Logic Flowchart
+Part One:
+![Screenshot_11-3-2026_161750_docs google com](https://github.com/user-attachments/assets/35d8c5f8-69f2-4983-94b0-03f3bd385a10)
+Part Two:
+![Screenshot_11-3-2026_16181_docs google com](https://github.com/user-attachments/assets/a84245d7-3f6d-4881-b025-a082f86df4e4)
+
 * Project Growth and Reflection
 
 ## Usage
