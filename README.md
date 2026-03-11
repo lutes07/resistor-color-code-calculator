@@ -16,6 +16,6 @@ A Python tool that calculates the closest E-series nominal resistance, computes 
 * Project Growth and Reflection
 
 ## Usage
-Run the script in your terminal using Python. Foillow the given prompts to enter your desired resitance and tolerance values. 
+Run the script in your terminal using Python. Follow the given prompts to enter your desired resitance and tolerance values. 
 ```bash
 python resistor_calculator.py
