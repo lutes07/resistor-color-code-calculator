@@ -11,7 +11,6 @@ A Python tool that calculates the closest E-series nominal resistance, computes 
 * **Error Checking:** Calculates the final percent error and outputs a warning if the calculated error exceeds the user's chosen tolerance.
 
 ## Documentation
-* System Block Diagram
 * Logic Flowchart
 * Project Growth and Reflection
 
